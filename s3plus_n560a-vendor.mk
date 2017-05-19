@@ -1,1 +1,0 @@
-$(call inherit-product, vendor/jiayu/s3plus_n560a/s3plus_n560a-vendor-blobs.mk)
